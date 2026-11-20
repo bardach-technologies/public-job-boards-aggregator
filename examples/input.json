@@ -1,0 +1,5 @@
+{
+  "sources": ["jobicy", "remoteok", "jobtech"],
+  "keywords": ["engineer"],
+  "maxJobs": 10
+}
